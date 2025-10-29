@@ -266,8 +266,8 @@ lib/
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@truongcongtu318](https://github.com/yourusername)
+**Trương Công Tú**
+- GitHub: [@truongcongtu318](https://github.com/truongcongtu318)
 - Email:tct31082004@gmail.com
 
 ---
